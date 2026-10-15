@@ -1,0 +1,169 @@
+{
+  "bot_owners": [],
+  "chats": {
+    "23212973": {
+      "active": true,
+      "admins": [
+        36012001,
+        39890369,
+        41591569,
+        42897879,
+        53434539,
+        59563625,
+        66009832,
+        68060151,
+        68825638,
+        68977042,
+        69246922,
+        69440058,
+        69891454,
+        70121262,
+        70476806
+      ],
+      "group_owner": 68934730,
+      "exempt": [],
+      "silent_mode": true,
+      "ban_enabled": true,
+      "word_filters": [],
+      "media_filters": {},
+      "locks": {
+        "gif": false,
+        "photo": false,
+        "link": true,
+        "phone": true,
+        "forward": true,
+        "id": true,
+        "sticker": false,
+        "voice": false,
+        "video": false,
+        "file": false,
+        "unicode_spam": true,
+        "spam": true,
+        "group": false,
+        "media": false
+      },
+      "auto_cleanup": {
+        "times": []
+      },
+      "auto_media_cleanup": {
+        "interval_seconds": null,
+        "times": []
+      },
+      "auto_unmute_time": null,
+      "auto_unban_time": null,
+      "group_auto_lock": {
+        "lock_time": null,
+        "unlock_time": null
+      },
+      "muted": {},
+      "banned": {},
+      "spam_punishment": {
+        "type": "timed_mute",
+        "minutes": 10
+      },
+      "mute_action_lock": {
+        "minutes": 4
+      },
+      "bio_filter_words": [],
+      "bio_punishment": {
+        "type": "normal"
+      },
+      "name_filter_words": [],
+      "name_punishment": {
+        "type": "normal"
+      },
+      "anti_khale_enabled": true,
+      "anti_khale_punishment": {
+        "type": "mute"
+      },
+      "member_stealer_lock_enabled": true,
+      "anti_jagh_lock_enabled": true,
+      "anti_ad_lock_enabled": true,
+      "mute_reset_minutes": null,
+      "auto_delete_messages_enabled": false,
+      "auto_delete_delay_seconds": null,
+      "learned_words": {},
+      "learned_words_enabled": true,
+      "fun_enabled": true,
+      "lock_warn_settings": {},
+      "warnings": {},
+      "killed": {},
+      "spam_settings": {},
+      "_last_run": {}
+    },
+    "24764070": {
+      "active": true,
+      "admins": [
+        66009832
+      ],
+      "group_owner": 68825638,
+      "exempt": [],
+      "silent_mode": false,
+      "ban_enabled": true,
+      "word_filters": [],
+      "media_filters": {},
+      "locks": {
+        "gif": false,
+        "photo": false,
+        "link": true,
+        "phone": true,
+        "forward": true,
+        "id": true,
+        "sticker": false,
+        "voice": false,
+        "video": false,
+        "file": false,
+        "unicode_spam": true,
+        "spam": true,
+        "group": false,
+        "media": false
+      },
+      "auto_cleanup": {
+        "times": []
+      },
+      "auto_media_cleanup": {
+        "interval_seconds": null,
+        "times": []
+      },
+      "auto_unmute_time": null,
+      "auto_unban_time": null,
+      "group_auto_lock": {
+        "lock_time": null,
+        "unlock_time": null
+      },
+      "muted": {},
+      "banned": {},
+      "spam_punishment": {
+        "type": "timed_mute",
+        "minutes": 10
+      },
+      "mute_action_lock": null,
+      "bio_filter_words": [],
+      "bio_punishment": {
+        "type": "normal"
+      },
+      "name_filter_words": [],
+      "name_punishment": {
+        "type": "normal"
+      },
+      "anti_khale_enabled": true,
+      "anti_khale_punishment": {
+        "type": "mute"
+      },
+      "member_stealer_lock_enabled": true,
+      "anti_jagh_lock_enabled": true,
+      "anti_ad_lock_enabled": true,
+      "mute_reset_minutes": null,
+      "auto_delete_messages_enabled": false,
+      "auto_delete_delay_seconds": null,
+      "learned_words": {},
+      "learned_words_enabled": true,
+      "fun_enabled": true,
+      "lock_warn_settings": {},
+      "warnings": {},
+      "killed": {},
+      "spam_settings": {},
+      "_last_run": {}
+    }
+  }
+}
